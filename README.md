@@ -1,5 +1,4 @@
-This is the crawler project of YTU-CE-COSMOS aiming to collect high-quality monolingual (Turkish in our case) text-data in an efficient way.
-The text data we collected with cosmos-crawler gives positive signals as a LLM pretranining corpus.
+This is the crawler project of YTU-CE-COSMOS aiming to collect high-quality monolingual (Turkish in our case) web text data.
 
 It is highly recommended to take a look at our Huggingface Account:
 https://huggingface.co/datasets/ytu-ce-cosmos/
